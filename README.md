@@ -10,7 +10,6 @@
 - 💻 Atualmente, sou **Estagiário em Análise de Dados** na **Compasso UOL**, explorando tecnologias como **AWS** e **Docker**.
 - 🌟 Apaixonado por tecnologia, **Machine Learning** e desenvolvimento de sistemas.
 - 📚 Sempre aprendendo algo novo: atualmente estudando **Spark**, **AWS** e **Python Avançado**.
-- 🎮 Nas horas vagas: **Basquete**, **CS:GO**, e adoro explorar filmes com **plot twists**!
 
 ---
 
@@ -41,8 +40,8 @@
   Projeto focado em análise preditiva e visualizações de dados com AWS e Spark.
 - **[Controle de Estoque em C#](https://github.com/ThallesLima3301/controle-estoque):**
   Sistema simples para gerenciamento de estoque usando vetores.
-- **[Markdown Cheatsheet](https://github.com/ThallesLima3301/markdown-cheatsheet):**
-  Um guia para utilizar Markdown de forma eficaz.
+- **[Loja de moletom](https://github.com/ThallesLima3301/Loja):**
+  Loja feita, tanto front-end quanto o back-end
 
 ---
 
@@ -53,11 +52,5 @@
 
 ---
 
-### 🎨 Curiosidades
-- ⚡ Envergadura: 2,25m (ótimo para basquete!)
-- 🎬 Fã de **Attack on Titan** e filmes cheios de reviravoltas.
-- 🛠️ Sempre pronto para resolver problemas com código!
-
----
 
 **Vamos nos conectar e construir algo incrível juntos!** 😄
