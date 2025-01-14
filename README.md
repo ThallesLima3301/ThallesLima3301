@@ -19,6 +19,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesLima3301&layout=compact&theme=radical" />
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Stats-A%2B-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats" />
+</div>
+
 ---
 
 ### 🌟 Tecnologias que estudo no meu dia a dia
