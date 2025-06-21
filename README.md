@@ -6,6 +6,8 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/ThallesLima3301/ThallesLima3301/main/banner.png" alt="Banner Thalles Lima" />
+
 ### 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **ADS** e **Logística**, formado em **Sistemas de Informação**.
