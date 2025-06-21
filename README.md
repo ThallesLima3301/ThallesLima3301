@@ -6,7 +6,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/ThallesLima3301/ThallesLima3301/main/banner.png" alt="Banner Thalles Lima" />
 
 ### 👨‍💻 Sobre mim
 
@@ -62,6 +61,8 @@
 - 🛍️ Criar minha própria **loja online de moletons**, integrando conhecimento técnico com visão de negócio.
 
 ---
+
+<img src="https://raw.githubusercontent.com/ThallesLima3301/ThallesLima3301/main/banner.png" alt="Banner Thalles Lima" />
 
 **Vamos nos conectar e construir algo incrível juntos!** 😄  
 *Se quiser bater um papo sobre tecnologia, IA ou desenvolvimento, me chama no LinkedIn!*
