@@ -37,11 +37,11 @@
 - 🔍 [**Torre Engineering Test**](https://github.com/ThallesLima3301/Torre_Engineering-test_technician):  
   Projeto fullstack com **React**, **Node.js** e **MongoDB** integrando a API pública da Torre.co, com funcionalidades de busca, favoritos e analytics.
 
-- 🎥 [**Data Lake para Séries e Filmes**](https://github.com/ThallesLima3301/data-lake-movies-series):  
+- 🎥 [**Data Lake Feito na Uol **](https://github.com/ThallesLima3301/Compass-Uol):  
   Projeto de análise preditiva usando **AWS S3**, **Glue**, **Athena** e **Apache Spark** para processar dados de séries e filmes.
 
-- 🧥 [**Loja de Moletons**](https://github.com/ThallesLima3301/Loja):  
-  Projeto completo com front e back-end simulando uma loja virtual de roupas, com foco em CRUD e responsividade.
+- 🦾 [**Autenticação JWT**](https://github.com/ThallesLima3301/Login---Autenticac-a-o):  
+  Login | Autenticação JWT com Node.js e TypeScript
 
 ---
 
