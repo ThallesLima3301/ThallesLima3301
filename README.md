@@ -40,8 +40,8 @@
 - 🎥 [**Data Lake Feito na Uol **](https://github.com/ThallesLima3301/Compass-Uol):  
   Projeto de análise preditiva usando **AWS S3**, **Glue**, **Athena** e **Apache Spark** para processar dados de séries e filmes.
 
-- 🦾 [**Pipeline de Machine Learning para Previsão de Alta Venda**]([https://github.com/ThallesLima3301/Login---Autenticac-a-o](https://github.com/ThallesLima3301/models-machine-learning-)):  
-  Login | Autenticação JWT com Node.js e TypeScript
+- 🦾 [**Pipeline de Machine Learning para Previsão de Alta Venda**]([https://github.com/ThallesLima3301/Compass-Uol](https://github.com/ThallesLima3301/models-machine-learning-)):  
+Comparação entre vários modelos
 
 ---
 
