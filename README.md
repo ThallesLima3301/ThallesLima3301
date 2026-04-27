@@ -9,10 +9,10 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Estudante de **ADS** e **Logística**, formado em **Sistemas de Informação**.
-- 💼 Estagiário em **Análise de Dados** na **Compasso UOL**, atuando com **AWS**, **Docker** e **Python**.
-- 🚀 Apaixonado por **tecnologia**, **dados**, **Machine Learning** e **desenvolvimento fullstack**.
-- 📚 Atualmente estudando **Apache Spark**, **AWS** e **Python avançado**.
+- 🎓 Formado **ADS** e **Logística**, formado em **Sistemas de Informação**.
+- 💼**Análise de Dados** atuando com **AWS**, **Docker** e **Python **Azura**.
+- 🚀 Gosto de **tecnologia**, **dados**, **Machine Learning** e **desenvolvimento fullstack**.
+- 📚 Atualmente estudando **estou fazendo minha pos na usp curso Data Science, Inteligência Artificial e Analytics**.
 
 ---
 
@@ -40,8 +40,8 @@
 - 🎥 [**Data Lake Feito na Uol **](https://github.com/ThallesLima3301/Compass-Uol):  
   Projeto de análise preditiva usando **AWS S3**, **Glue**, **Athena** e **Apache Spark** para processar dados de séries e filmes.
 
-- 🦾 [**Pipeline de Machine Learning para Previsão de Alta Venda**](https://github.com/ThallesLima3301/models-machine-learning-):  
-Comparação entre vários modelos
+- 🦾 [**bot para analise + dash**]([https://github.com/ThallesLima3301/models-machine-learning-](https://github.com/ThallesLima3301/cripto)):  
+Analisando bons momentos de compra e de venda
 
 ---
 
@@ -58,7 +58,7 @@ Comparação entre vários modelos
 
 - 💡 Aprender e aplicar **TensorFlow** e **PyTorch** em projetos de Machine Learning.
 - 🧠 Aprofundar em **Redes Neurais** e algoritmos de IA.
-- 🛍️ Criar minha própria **loja online de moletons**, integrando conhecimento técnico com visão de negócio.
+- 🛍️ Criar minha própria **loja online de moletons**, integrando conhecimento técnico com visão de negócio usando algo como Supabase acabatepay vai ser meu gestor de pagamentos e vercel para hospedar.
 
 ---
 
