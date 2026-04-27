@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Formado **ADS** e **Logística**, formado em **Sistemas de Informação**.
+- 🎓 Formado **ADS** e **Logística** e **Sistemas de Informação**.
 - 💼**Análise de Dados** atuando com **AWS**, **Docker** e **Python **Azura**.
 - 🚀 Gosto de **tecnologia**, **dados**, **Machine Learning** e **desenvolvimento fullstack**.
 - 📚 Atualmente estudando **estou fazendo minha pos na usp curso Data Science, Inteligência Artificial e Analytics**.
