@@ -40,7 +40,7 @@
 - 🎥 [**Data Lake Feito na Uol **](https://github.com/ThallesLima3301/Compass-Uol):  
   Projeto de análise preditiva usando **AWS S3**, **Glue**, **Athena** e **Apache Spark** para processar dados de séries e filmes.
 
-- 🦾 [**bot para analise + dash**](https://github.com/ThallesLima3301/models-machine-learning-](https://github.com/ThallesLima3301/cripto)):  
+- 🦾 [**bot para analise + dash**](https://github.com/ThallesLima3301/cripto):  
 Analisando bons momentos de compra e de venda
 
 ---
